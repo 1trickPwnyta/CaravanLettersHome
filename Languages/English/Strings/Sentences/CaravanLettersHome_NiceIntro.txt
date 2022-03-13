@@ -1,0 +1,20 @@
+I hope you're doing [CaravanLettersHome_AdverbPositive]. 
+I hope you're doing [AdjectiveFriendly]ly. 
+I've been thinking about you a lot lately. 
+I miss you. 
+what have you been up to lately? 
+how are you? 
+I've missed you. 
+just thinking of you, and I wanted to write you this letter. 
+I've been feeling [CaravanLettersHome_AdjectivePositive] and I wanted to tell you all about it, so I wrote you this letter. 
+it's been a while! 
+sorry I didn't write to you sooner! 
+hi. 
+hey there. 
+what's up? 
+hope you're doing [CaravanLettersHome_AdverbPositive]. 
+hope you're doing [AdjectiveFriendly]ly. 
+I have been thinking about you. 
+I hope this letter finds you well. 
+I hope this letter finds you in good health. 
+how are you doing, my [CaravanLettersHome_AdjectivePositive] friend?

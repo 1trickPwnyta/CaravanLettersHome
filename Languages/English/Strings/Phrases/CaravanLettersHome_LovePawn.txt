@@ -1,0 +1,19 @@
+yours truly, {0}
+yours, {0}
+sincerely, {0}
+forever yours, {0}
+regards, {0}
+kind regards, {0}
+with appreciation, {0}
+cordially, {0}
+respectfully, {0}
+with gratitude, {0}
+best regards, {0}
+best, {0}
+all the best, {0}
+best wishes, {0}
+talk soon, {0}
+warmly, {0}
+cheers, {0}
+with love, {0}
+always, {0}

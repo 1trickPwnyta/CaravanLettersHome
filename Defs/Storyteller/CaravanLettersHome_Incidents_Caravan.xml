@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <IncidentDef>
+    <defName>CaravanLetterHome</defName>
+    <label>caravan letter home</label>
+    <category>Misc</category>
+    <targetTags>
+      <li>Map_PlayerHome</li>
+      <li>Caravan</li>
+    </targetTags>
+    <workerClass>IncidentWorker_CaravanLetterHome</workerClass>
+    <minRefireDays>7</minRefireDays>
+    <baseChance>1.0</baseChance>
+	<requireColonistsPresent>True</requireColonistsPresent>
+	<letterLabel>Letter received</letterLabel>
+    <letterText>{0} has received a hand-written letter via carrier pigeon (don't ask) from {1}. It reads: \n\n{2}\n\n{0} {3} and will {4} a short mood {5}.</letterText>
+  </IncidentDef>
+  
+</Defs>

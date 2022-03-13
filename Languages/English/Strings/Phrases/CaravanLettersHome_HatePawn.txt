@@ -1,0 +1,10 @@
+yours never, {0}
+sincerely, {0}
+with disgust, {0}
+disrespectfully, {0}
+with hate, {0}
+worst regards, {0}
+worst, {0}
+all the worst, {0}
+worst wishes, {0}
+coldly, {0}

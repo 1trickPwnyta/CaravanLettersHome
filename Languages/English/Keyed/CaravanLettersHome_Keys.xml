@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<CaravanLettersHome_IsAngry>is angry</CaravanLettersHome_IsAngry>
+	<CaravanLettersHome_AppreciatesTheThought>appreciates the thought</CaravanLettersHome_AppreciatesTheThought>
+	<CaravanLettersHome_Suffer>suffer</CaravanLettersHome_Suffer>
+	<CaravanLettersHome_Enjoy>enjoy</CaravanLettersHome_Enjoy>
+	<CaravanLettersHome_Penalty>penalty</CaravanLettersHome_Penalty>
+	<CaravanLettersHome_Boost>boost</CaravanLettersHome_Boost>
+	<CaravanLettersHome_DearPawn>Dear {0}, </CaravanLettersHome_DearPawn>
+	<CaravanLettersHome_NotDearPawn>{0}: </CaravanLettersHome_NotDearPawn>
+	<CaravanLettersHome_LovePawn>Love, {0}</CaravanLettersHome_LovePawn>
+</LanguageData>
