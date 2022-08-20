@@ -1,8 +1,9 @@
-I [CaravanLettersHome_VerbHate] the way you [CaravanLettersHome_VerbIntransitive]. 
-I [CaravanLettersHome_VerbHate] the way you [CaravanLettersHome_VerbTransitive] [CaravanLettersHome_NounPlural]. 
-you are so [CaravanLettersHome_AdjectiveUnfriendly]. 
-your [CaravanLettersHome_NounAny] makes me [CaravanLettersHome_VerbNegative]. 
-I hate you. 
-you're always being [CaravanLettersHome_AdjectiveUnfriendly]! 
-you are a [CaravanLettersHome_AdjectiveUnfriendly] [Animal]. 
-you are a [Enemy]. 
+I [CaravanLettersHome_VerbHate] the way you [CaravanLettersHome_VerbIntransitive].
+I [CaravanLettersHome_VerbHate] the way you [CaravanLettersHome_VerbTransitive] [CaravanLettersHome_NounPlural].
+you are so [CaravanLettersHome_AdjectiveUnfriendly].
+your [CaravanLettersHome_NounAny] makes me [CaravanLettersHome_VerbNegative].
+I hate you.
+you're always being [CaravanLettersHome_AdjectiveUnfriendly]!
+you are a [CaravanLettersHome_AdjectiveUnfriendly] [Animal].
+you are a [Enemy].
+go [CaravanLettersHome_VerbTransitive] yourself.

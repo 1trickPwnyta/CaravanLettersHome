@@ -9,4 +9,5 @@
 	<CaravanLettersHome_DearPawn>Dear {0}, </CaravanLettersHome_DearPawn>
 	<CaravanLettersHome_NotDearPawn>{0}: </CaravanLettersHome_NotDearPawn>
 	<CaravanLettersHome_LovePawn>Love, {0}</CaravanLettersHome_LovePawn>
+	<CaravanLettersHome_HatePawn>{0}</CaravanLettersHome_HatePawn>
 </LanguageData>

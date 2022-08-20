@@ -11,20 +11,14 @@ namespace RimWorld
 	{
 		protected override bool CanFireNowSub(IncidentParms parms)
 		{
-			CaravanLettersHome.Debug.Log("Can fire now? maybe");
-
 			bool anyPawnInCaravanRelatedtoAnyHomeMapPawn = (parms.target is Caravan && PawnsFinder.HomeMaps_FreeColonistsSpawned.Any(
 				pawn => pawn.needs.mood.thoughts.memories.Memories.Any(memory => (parms.target as Caravan).PawnsListForReading.Contains(memory.otherPawn))
 			));
-			CaravanLettersHome.Debug.Log("Can fire now? " + anyPawnInCaravanRelatedtoAnyHomeMapPawn);
-
 			return anyPawnInCaravanRelatedtoAnyHomeMapPawn;
 		}
 
 		protected override bool TryExecuteWorker(IncidentParms parms)
 		{
-			CaravanLettersHome.Debug.Log("Try execute worker");
-
 			Caravan caravan = parms.target as Caravan;
 			if (caravan == null)
             {
@@ -52,13 +46,10 @@ namespace RimWorld
 			Pawn sender = memory.otherPawn;
 
 			string letterText = GetLetterText(recipient, sender);
-			CaravanLettersHome.Debug.Log("letter text" + letterText);
-
 			base.SendStandardLetter(this.def.letterLabel, letterText, GetLetterDef(recipient, sender), parms, recipient, Array.Empty<NamedArgument>());
 
 			if (recipient.needs.mood != null)
 			{
-				CaravanLettersHome.Debug.Log("the def is " + CaravanLettersHome.ThoughtDefOf.ReceivedCaravanLetterNice);
 				recipient.needs.mood.thoughts.memories.TryGainMemory(GetThought(recipient, sender));
 			}
 

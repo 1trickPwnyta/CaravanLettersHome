@@ -1,17 +1,62 @@
-I just [CaravanLettersHome_VerbTransitivePastTense] [CaravanLettersHome_Article] [CaravanLettersHome_NounConcrete]. 
-[CaravanLettersHome_NounPlural] sure are [CaravanLettersHome_AdjectiveAny], aren't they? 
-are you well? 
-how is your [CaravanLettersHome_NounAny]? 
-how is your [CaravanLettersHome_AdjectiveAny] [CaravanLettersHome_NounAny]? 
-my [CaravanLettersHome_NounAny] has been [CaravanLettersHome_AdverbAny] [CaravanLettersHome_AdjectiveAny]. 
-my [CaravanLettersHome_NounAny] has been [CaravanLettersHome_AdjectiveAny], but I am [CaravanLettersHome_AdjectiveAny]. 
-I can't wait to [CaravanLettersHome_AdverbAny] [CaravanLettersHome_VerbTransitive] [CaravanLettersHome_Article] [CaravanLettersHome_NounConcrete]! 
-I was hoping we could [CaravanLettersHome_VerbIntransitive] together sometime. 
-I saw this [CaravanLettersHome_NounConcrete] and it made me think of you. 
-I am having a [CaravanLettersHome_AdjectiveAny] day. 
-remember how much I [CaravanLettersHome_VerbTransitive] [CaravanLettersHome_NounPlural]? 
-it'll be time to [CaravanLettersHome_VerbIntransitive] soon. 
-I cannot tell you how [CaravanLettersHome_AdjectiveAny] I am to [CaravanLettersHome_VerbTransitive] [CaravanLettersHome_Article] [CaravanLettersHome_NounAny]. 
-there are so many things I have to tell you. 
-I have [CaravanLettersHome_VerbTransitivePastTense] [CaravanLettersHome_NounPlural] many times since I last saw you. 
-guess what? 
+[CaravanLettersHome_Pronoun] [CaravanLettersHome_AdverbAny] [CaravanLettersHome_VerbTransitivePastTense] [CaravanLettersHome_Article] [CaravanLettersHome_NounConcrete].
+I'll just assume that [CaravanLettersHome_Pronoun] [CaravanLettersHome_AdverbAny] [CaravanLettersHome_VerbTransitivePastTense] [CaravanLettersHome_Article] [CaravanLettersHome_NounConcrete].
+you can count on [CaravanLettersHome_NounPlural] being [CaravanLettersHome_AdjectiveAny].
+[CaravanLettersHome_NounPlural] are [CaravanLettersHome_AdjectiveAny], aren't they?
+[CaravanLettersHome_NounPlural] sure be [CaravanLettersHome_AdjectiveAny]!
+[CaravanLettersHome_PronounIsQuestion] [CaravanLettersHome_AdjectiveAny]?
+how is [CaravanLettersHome_PronounPossessive] [CaravanLettersHome_NounAny]?
+how is [CaravanLettersHome_PronounPossessive] [CaravanLettersHome_AdjectiveAny] [CaravanLettersHome_NounAny]?
+[CaravanLettersHome_PronounPossessive] [CaravanLettersHome_NounAny] has been [CaravanLettersHome_AdverbAny] [CaravanLettersHome_AdjectiveAny].
+[CaravanLettersHome_PronounPossessive] [CaravanLettersHome_NounAny] has been [CaravanLettersHome_AdjectiveAny].
+[CaravanLettersHome_Pronoun] [CaravanLettersHome_AdverbPhrasePre] [CaravanLettersHome_AdverbAny] [CaravanLettersHome_VerbTransitive] [CaravanLettersHome_Article] [CaravanLettersHome_NounConcrete]!
+I was hoping we could [CaravanLettersHome_VerbIntransitive] [CaravanLettersHome_AdverbAny] [CaravanLettersHome_AdverbTime].
+I saw this [CaravanLettersHome_NounConcrete] and it made me think of you.
+I saw this [CaravanLettersHome_NounConcrete] and it made me think of [CaravanLettersHome_NounPlural].
+I am having a [CaravanLettersHome_AdjectiveAny] day.
+remember how much I [CaravanLettersHome_VerbTransitive] [CaravanLettersHome_NounPlural]?
+it'll be time to [CaravanLettersHome_VerbIntransitive] soon.
+I cannot tell you how [CaravanLettersHome_AdjectiveEmotion] I am to [CaravanLettersHome_VerbTransitive] [CaravanLettersHome_Article] [CaravanLettersHome_NounAny].
+there are so many things I have to tell you.
+there are so many things I have to [CaravanLettersHome_VerbTransitive].
+I have [CaravanLettersHome_VerbTransitivePastTense] [CaravanLettersHome_NounPlural] many times since I last saw you.
+I have [CaravanLettersHome_VerbTransitivePastTense] [CaravanLettersHome_NounPlural] many times since I [CaravanLettersHome_AdverbAny] [CaravanLettersHome_VerbTransitivePastTense] [CaravanLettersHome_NounPlural].
+guess what?
+[CaravanLettersHome_Existence] [CaravanLettersHome_NounConcrete] [CaravanLettersHome_Preposition] [CaravanLettersHome_Article] [CaravanLettersHome_NounConcrete].
+this is [CaravanLettersHome_AdjectiveAny] [CaravanLettersHome_AdverbPhraseAmount].
+I got to pet a [Animal] [CaravanLettersHome_AdverbAny].
+I got to [CaravanLettersHome_VerbTransitive] a [Animal] [CaravanLettersHome_AdverbAny].
+writing letters is [CaravanLettersHome_AdjectiveAny].
+I don't really know what to write, lol.
+I don't really know what to [CaravanLettersHome_VerbTransitive].
+have you heard the [CaravanLettersHome_NounCommunicationAuditory] about [CaravanLettersHome_NounPlural] and [CaravanLettersHome_NounPlural]?
+did you hear about [CaravanLettersHome_NounPlural] and [CaravanLettersHome_NounPlural]?
+have you heard of the [CaravanLettersHome_NounPlural] and [CaravanLettersHome_NounPlural]?
+[CaravanLettersHome_SuggestionPossession] [CaravanLettersHome_AdjectiveAny] [CaravanLettersHome_NounPlural].
+[CaravanLettersHome_SuggestionPossession] [CaravanLettersHome_AdjectiveAny] [CaravanLettersHome_Article] [CaravanLettersHome_NounConcrete].
+I heard a [CaravanLettersHome_NounSound].
+I heard the [CaravanLettersHome_NounCommunicationAuditory].
+I saw the [CaravanLettersHome_NounCommunicationVisual].
+did you see the [CaravanLettersHome_NounCommunicationVisual] about [CaravanLettersHome_NounAnimalPlural]?
+my [CaravanLettersHome_NounConcrete] just made a [CaravanLettersHome_NounSound].
+my [BodyPart] just made a [CaravanLettersHome_NounSound].
+I have [CaravanLettersHome_Article] [CaravanLettersHome_NounConcrete].
+the caravan is running low on [CaravanLettersHome_NounPlural].
+I discovered an abundance of [CaravanLettersHome_NounPlural].
+I discovered [CaravanLettersHome_AdjectiveQuantityPlural] [CaravanLettersHome_NounPlural].
+I never thought [CaravanLettersHome_Pronoun] would be so [CaravanLettersHome_AdjectiveAny].
+the [CaravanLettersHome_NounAnimalPlural] are [CaravanLettersHome_NounSound]ing.
+the [CaravanLettersHome_NounAnimalPlural] are [CaravanLettersHome_VerbIntransitive]ing.
+never say never.
+never say "[CaravanLettersHome_AdverbTime]".
+just because.
+are [CaravanLettersHome_PronounPossessive] [CaravanLettersHome_NounPlural] [CaravanLettersHome_AdjectiveAny]?
+this way to the [CaravanLettersHome_NounConcrete]!
+I recently came across a herd of [CaravanLettersHome_NounAnimalPlural].
+I never really thought about [CaravanLettersHome_NounPlural] before.
+I'm doing [CaravanLettersHome_AdverbAny].
+maybe [CaravanLettersHome_VerbTransitive] [CaravanLettersHome_Article] [CaravanLettersHome_NounAny]?
+the [CaravanLettersHome_NounPlural] will [CaravanLettersHome_VerbIntransitive] because of [CaravanLettersHome_NounIllness].
+I hope I don't get [CaravanLettersHome_NounIllness] out here!
+no rush.
+I hope this doesn't sound [CaravanLettersHome_AdjectiveNegative].
+to me, this feels [CaravanLettersHome_AdverbPhraseAmount] [CaravanLettersHome_AdjectiveEmotion].
