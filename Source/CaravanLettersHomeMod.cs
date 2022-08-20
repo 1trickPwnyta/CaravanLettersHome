@@ -1,5 +1,4 @@
 ﻿using Verse;
-using HarmonyLib;
 
 namespace CaravanLettersHome
 {
@@ -10,9 +9,6 @@ namespace CaravanLettersHome
 
         public CaravanDetectedDontCareMod(ModContentPack content) : base(content)
         {
-            var harmony = new Harmony(PACKAGE_ID);
-            harmony.PatchAll();
-
             Log.Message($"[{PACKAGE_NAME}] Loaded.");
         }
     }
