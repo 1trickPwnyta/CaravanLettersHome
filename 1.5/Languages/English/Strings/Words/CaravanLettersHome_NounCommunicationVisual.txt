@@ -1,0 +1,11 @@
+news
+show
+bulletin
+note
+post
+tweet
+message
+movie
+book
+paper
+article

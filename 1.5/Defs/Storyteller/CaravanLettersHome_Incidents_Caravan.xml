@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <IncidentDef>
+    <defName>CaravanLetterHome</defName>
+    <label>caravan letter home</label>
+    <category>Misc</category>
+    <targetTags>
+      <li>Caravan</li>
+    </targetTags>
+    <workerClass>IncidentWorker_CaravanLetterHome</workerClass>
+    <minRefireDays>7</minRefireDays>
+	<letterLabel>Letter received</letterLabel>
+    <letterText>{0} has received a hand-written letter via carrier pigeon (don't ask) from {1}. It reads: \n\n{2}\n\n{0} {3} and will {4} a short mood {5}.</letterText>
+    <mtbDaysByBiome>
+      <TemperateForest>20</TemperateForest>
+      <BorealForest>20</BorealForest>
+      <TropicalRainforest>20</TropicalRainforest>
+      <AridShrubland>20</AridShrubland>
+      <Desert>20</Desert>
+      <Tundra>20</Tundra>
+      <TropicalSwamp>20</TropicalSwamp>
+      <TemperateSwamp>20</TemperateSwamp>
+      <ColdBog>20</ColdBog>
+      <ExtremeDesert>20</ExtremeDesert>
+      <IceSheet>20</IceSheet>
+      <SeaIce>20</SeaIce>
+    </mtbDaysByBiome>
+  </IncidentDef>
+  
+</Defs>

@@ -1,0 +1,7 @@
+I [CaravanLettersHome_VerbLove] the way you [CaravanLettersHome_VerbIntransitive].
+I [CaravanLettersHome_VerbLove] the way you [CaravanLettersHome_VerbTransitive] [CaravanLettersHome_NounPlural].
+you are so [CaravanLettersHome_AdjectivePositive].
+your [CaravanLettersHome_NounAny] makes me [CaravanLettersHome_VerbPositive].
+I love you.
+thank you for always being [CaravanLettersHome_AdjectivePositive]!
+you are my [CaravanLettersHome_NounPositive].

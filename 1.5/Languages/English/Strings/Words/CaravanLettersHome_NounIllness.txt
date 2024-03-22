@@ -1,0 +1,171 @@
+acne
+allergies
+anal cancer
+anaphylaxis
+angioedema
+anxiety
+appendicitis
+arthritis
+asbestosis
+asthma
+atopic eczema
+binge eating
+bladder cancer
+bone cancer
+bowel cancer
+bowel polyps
+brain tumors
+bronchiectasis
+bronchitis
+bulimia
+bunion
+catarrh
+cellulitis
+cervical cancer
+chest infection
+chest pain
+chickenpox
+chilblains
+chlamydia
+cirrhosis
+coeliac disease
+cold sore
+coma
+common cold
+conjunctivitis
+constipation
+cough
+crohn's disease
+croup
+cystic fibrosis
+cystitis
+deafblindness
+dehydration
+dementia
+dental abscess
+depression
+diabetes
+diarrhea
+discoid eczema
+down's syndrome
+dry mouth
+dystonia
+earache
+earwax build-up
+endometriosis
+epilepsy
+ewing sarcoma
+eye cancer
+fever in adults
+fibroids
+fibromyalgia
+flatulence
+flu
+food poisoning
+gallstones
+ganglion cyst
+gastroenteritis
+genital herpes
+genital warts
+glandular fever
+gonorrhoea
+gout
+gum disease
+hay fever
+headaches
+hearing loss
+heart failure
+hepatitis a
+hepatitis b
+hepatitis c
+hiatus hernia
+hiv
+hyperhidrosis
+impetigo
+indigestion
+ingrown toenail
+insomnia
+irritable hip
+itching
+itchy bottom
+kidney cancer
+kidney stones
+labyrinthitis
+laryngitis
+leg cramps
+lichen planus
+liver cancer
+liver disease
+liver tumors
+loss of libido
+lung cancer
+lupus
+lyme disease
+lymphoedema
+malaria
+malnutrition
+measles
+meningitis
+menopause
+mesothelioma
+migraine
+miscarriage
+mouth cancer
+mouth ulcer
+mumps
+neuroblastoma
+norovirus
+nosebleed
+obesity
+osteoarthritis
+osteoporosis
+osteosarcoma
+otitis externa
+ovarian cancer
+ovarian cyst
+panic disorder
+penile cancer
+pleurisy
+pneumonia
+pressure ulcers
+prostate cancer
+psoriasis
+psychosis
+pubic lice
+rare tumors
+retinoblastoma
+rosacea
+scabies
+scarlet fever
+schizophrenia
+scoliosis
+septic shock
+shingles
+sinusitis
+sore throat
+stillbirth
+stomach cancer
+stomach ulcer
+stroke
+suicide
+sunburn
+swollen glands
+syphilis
+thirst
+threadworms
+thrush
+thrush in men
+thyroid cancer
+tinnitus
+tonsillitis
+tooth decay
+toothache
+type 1 diabetes
+type 2 diabetes
+vaginal cancer
+vaginal thrush
+varicose eczema
+vertigo
+vulval cancer
+whooping cough
+yellow fever
